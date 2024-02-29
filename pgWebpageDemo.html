@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+</head>
+<body>
+    <h1>Password Generator</h1>
+    <form action="/generate" method="post">
+        <label for="password">Enter your password:</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">Generate Password</button>
+    </form>
+    {% if user_input %}
+        <p>Password Strength: {{ strength }}</p>
+        <p>Your entered password: {{ user_input }}</p>
+        <p>Generated Password: {{ new_password }}</p>
+    {% endif %}
+</body>
+</html>
