@@ -1,4 +1,4 @@
--This is Wilder Edwards's github repository page. I am a student at GSU pursuing mastery in software development/engineering, Network/Cloud security, and general secure software solutions
+-This is Wilder Edwards's github repository page. I am a student at GSU pursuing mastery in software development/engineering, Network/Cloud security, and general secure software solutions. Welcome to my page!
 
 
 
