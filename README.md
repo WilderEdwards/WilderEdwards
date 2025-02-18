@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 🌱 Currently Learning: Fullstack Development with Express JS
 - 💬 Ask me about: Go, Rust, and Graphics Programming
 - 📫 How to reach me: [Email](mailto:wilderedwards@gmail.com), [LinkedIn](https://www.linkedin.com/in/wilder-edwards/)
-- 🔭 Looking to collaborate on: Open Source Projects, Innovative Startups
+- 🔭 Looking to collaborate on: Open Source Projects
 
 ## GitHub Stats
 
