@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## Projects
 
-### Project 1: Awesome Project
+### Finance Data Visualization Tool // Fullstack CRUD App with Flask
 - Description: A fullstack app that can service multiple CRUD operations in a procedural 'mock' financial database hosted through MySQL, using Jinja templates for dynamic data rendering on the frontend.
 - Tech Stack: Flask, Matplotlib, Bootstrap JS
 - [Repository Link](https://github.com/WilderEdwards/Financial-Mock-DB)
