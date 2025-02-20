@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## About Me
 
-- 💼 Current Role: 
+- 💼 Current Role: Tutor
 - 🎓 Education: B.S. in Computer Science
 - 🌱 Currently Learning: Fullstack Development with Express JS
 - 💬 Ask me about: Go, Rust, and Graphics Programming
