@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## About Me
 
-- 💼 Current Role: Tutor
+- 💼 Current Role: Cybersecurity Technician
 - 🎓 Education: B.S. in Computer Science
-- 🌱 Currently Learning: Fullstack Development with Express JS
-- 💬 Ask me about: Go, Rust, and Graphics Programming
+- 🌱 Currently Learning: Network+ Training
+- 💬 Ask me about: Cybersecurity, Go, Rust, and Graphics Programming
 - 📫 How to reach me: [Email](mailto:wilderedwards@gmail.com), [LinkedIn](https://www.linkedin.com/in/wilder-edwards/)
 - 🔭 Looking to collaborate on: Open Source Projects
 
