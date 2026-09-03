@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## About Me
 
-- 💼 Current Role: Cybersecurity Technician
+- 💼 Current Role: System Analyst (Database and BI Specialization)
 - 🎓 Education: B.S. in Computer Science
-- 🌱 Currently Learning: Network+ Training
-- 💬 Ask me about: Cybersecurity, Go, Rust, and Graphics Programming
+- 🌱 Currently Learning: Audio Comparison and Classification Machine Learning Algorithms
+- 💬 Ask me about: My preferred programming language, tech stack
 - 📫 How to reach me: [Email](mailto:wilderedwards@gmail.com), [LinkedIn](https://www.linkedin.com/in/wilder-edwards/)
 - 🔭 Looking to collaborate on: Open Source Projects
 
@@ -39,9 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## Recent Activity
 
 <!--START_SECTION:activity-->
--Solo Developing a hack n' slash title in Unity with C# titled 'Nightdawn'
-
--Freelancing to create fullstack applications for specialized business needs
+-- Finishing my degree, brewing up project ideas for class...
 <!--END_SECTION:activity-->
 
 ## Connect with Me
